@@ -12,10 +12,10 @@ membuat akun github yang digambarkan dengan flowchart dibawah ini :
 flowchart 
     A[Start] --> B[Mengunjungi link GitHub]
     B --> C{Apakah sudah ada akun?}
-    C -- Sudah --> D[Masukkan Username/email dan Password]
+    C -- Sudah --> D[Masukkan Akun Anda]
     D --> E[Proses Login]
     C -- Belum --> F[Klik Create an Account]
-    F --> G[Lengkapi formulir dan klik Continue]
+    F --> G[Isi Formulir dan Lanjut]
     G --> H[Verifikasi dengan Puzzle]
     H --> I[Masukkan kode dari email]
     I --> J[Akun berhasil dibuat]
