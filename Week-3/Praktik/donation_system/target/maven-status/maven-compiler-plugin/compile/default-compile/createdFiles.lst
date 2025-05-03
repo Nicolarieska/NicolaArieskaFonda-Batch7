@@ -1,0 +1,4 @@
+com\mycompany\donation_system\Philanthropy\Philanthropy.class
+com\mycompany\donation_system\donation\Donation.class
+com\mycompany\donation_system\user\User.class
+com\mycompany\donation_system\Donation_system.class
