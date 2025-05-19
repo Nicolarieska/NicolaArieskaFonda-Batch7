@@ -1,0 +1,14 @@
+com\example\controller\PhilanthropyController.class
+com\example\models\PhilanthropyDetail.class
+com\example\repository\PhilanthropyDetailRepository.class
+com\example\models\PhilanthropyDetail$Type.class
+com\example\service\PhilanthropyService.class
+com\example\models\User.class
+com\example\models\Philanthropy.class
+com\example\service\PhilanthropyDetailService.class
+com\example\controller\UserController.class
+com\example\repository\UserRepository.class
+com\example\BasicApplication.class
+com\example\controller\PhilanthropyDetailController.class
+com\example\service\UserService.class
+com\example\repository\PhilanthropyRepository.class
